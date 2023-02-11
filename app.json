@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa590051-5031-40ea-9a6f-fc671b8da8b5"
+      }
+    },
+    "owner": "bartoemus"
   }
 }
